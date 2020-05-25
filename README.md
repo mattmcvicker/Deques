@@ -11,3 +11,5 @@
 ##### int size():	Returns the number of items in the deque.
 ##### boolean isEmpty():	Returns true if deque is empty, false otherwise.
 ##### T get(int index):	Gets the item at the given index, where 0 is the front, 1 is the next item, and so forth.
+
+###### Implementation in Deques/src/deques/LinkedDeque.java
